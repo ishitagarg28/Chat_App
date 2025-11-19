@@ -1,0 +1,11 @@
+#root {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-container {
+  min-height: 100vh;
+  background: var(--primary-gradient);
+}
