@@ -102,7 +102,7 @@ git clone https://github.com/ishitagarg28/Chat_App
 cd private_chat_app
 ```
 
-### **2. Install Depenndencies**
+### **2. Install Dependencies**
 ```
 npm install
 ```
@@ -167,7 +167,7 @@ http://localhost:5173
 
 ---
 
-### 💬 4. Use Dashboard  
+### 💬 4. User Dashboard  
 ![private_chat_app](./screenshots/UserDashboard.png)  
 
 ---
