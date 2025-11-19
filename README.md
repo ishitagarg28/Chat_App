@@ -144,7 +144,7 @@ http://localhost:5173
 ---
 
 ## LIVE DEMO
-[]
+[https://chat-app-5423.vercel.app/]
 
 
 ---
