@@ -99,7 +99,7 @@ Follow these steps to run the project locally:
 ### **1. Clone the repository**
 ```bash
 git clone https://github.com/ishitagarg28/Chat_App
-cd private_chat_app
+cd Chat_App
 ```
 
 ### **2. Install Dependencies**
